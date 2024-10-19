@@ -9,4 +9,4 @@
 1. Убедитесь, что у вас установлен Python 3.x.
 2. Скачайте или клонируйте этот репозиторий:
    ```bash
-   git clone https://github.com/ваше_имя/TetraPrimeTheory.git
+   git clone https://github.com/datosior/TetraPrimeTheory.git
